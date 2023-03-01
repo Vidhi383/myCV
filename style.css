@@ -1,0 +1,51 @@
+img{
+    position:relative;
+    left:100px;
+    top:100px;
+}
+
+.container{
+    display:flex;
+    height:1200px;
+}
+
+h1{
+    font-size: 150px;
+    position: relative;
+    left:250px;
+    top:150px;
+}
+
+p{
+    font-size: 100px;
+    position: relative;
+    left:-514px;
+    top:390px;
+}
+
+.home{
+    font-size: 100px;
+    position: relative;
+    left:-1346px;
+    top:586px;
+}
+
+.skills h1{
+    font-size: 88px;
+    position: relative;
+    top:2px;
+    left:97px;
+}
+
+table{
+    font-size: 90px;
+}
+
+a{
+    font-size: 100px;
+}
+
+.cont{
+    position: relative;
+    left:200px;
+}
